@@ -1,0 +1,12 @@
+{
+    "name" : "01",
+"version": "1.0.0",
+"description": "this is solution for ques 1 which is asking for creatins a package.json file",
+"main": "index.js",
+"scripts":{
+"test": "echo \"error: no test specified\" && exit 1"
+},
+"author": " ayushi",
+"license": "ISC"
+
+}
